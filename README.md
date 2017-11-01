@@ -1,4 +1,4 @@
-# igem2017-Vilnius-AR-Game-Framework
+# Vilnius-Lithuania-iGEM-2017 Augmented Reality Game Framework
 
 This repositry provides information about augmented reality framework for synthetic biology game that was created for iGEM 2017 competition. Note that this repository does not contain compiling version of created AR game. It only provides all the information and scripts required to use the framework.
 
