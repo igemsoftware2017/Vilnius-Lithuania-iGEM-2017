@@ -1,0 +1,54 @@
+Fig. 3.  Iš straipsnio “Mutations affecting primer RNA interaction with the replication repressor RNA I in plasmid ColE1: potential RNA folding pathway mutants”
+
+
+Wt p115
+GCAAACAAAAAAACCACCGCUACCAACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCAACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUU
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..((((.(((((((.....)))).))).)))).............
+
+Wt p135
+GCAAACAAAAAAACCACCGCUACCAACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCAACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAGCCGUAGUCGGG
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..(((.((.((((.((..((((.((((..........))))..))))..)).)))))).)))...
+
+Wt p140
+GCAAACAAAAAAACCACCGCUACCAACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCAACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAGCCGUAGUCGGGCCACU
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..((((.(((((((.....)))).))).))))...............((((..(((.......)))))))
+
+Wt p160
+GCAAACAAAAAAACCACCGCUACCAACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCAACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAGCCGUAGUCGGGCCACUACUUCAAGAACUCUGUAGCA
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..((((.(((((((......))))))).))))...(((.((.(((.(((((..(((.......))))))))....))).))...)))...
+
+Wt p200
+
+GCAAACAAAAAAACCACCGCUACCAACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCAACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAGCCGUAGUCGGGCCACUACUUCAAGAACUCUGUAGCACCGUUUGUGCCAUCAUCGCUCUGCUAAUCCGGUUACCAGU
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..(((((((((.((.(((((((((..(((......(((.((.(((.(((((..(((.......))))))))....))).))...)))((((.....)))).)))..))))))))))).)))))))))...
+
+
+
+
+Fig. 4.  Iš straipsnio “Mutations affecting primer RNA interaction with the replication repressor RNA I in plasmid ColE1: potential RNA folding pathway mutants”
+
+pEW2705 p140
+GCAAACAAAAAAACCACCGCUACCACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAACCGUAGUCGAGCCACU
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))........((((((..((...(((((((.((........))...))).)))).......)).))))))..
+
+pMM4 p140
+GCAAACAAAAAAACCACCGCUACCACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAGCCGUAGCCGGGCCACU
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..(((.((.((((.((..((((.((((..........))))..))))..)).)))))).)))........
+
+pMM7 p140
+GCAAACAAAAAAACCACCGCUACCACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAGCCGGAGUCGGGCCACU
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..(((..((((((.((..((((.((((..........))))..))))..)).))))))......)))...
+
+pMM1 p140
+GCAAACAAAAAAACCACCGCUACCACGGUGGUUUGUUUGCCGGAUCAAGAGCUACCACUCUUUUUCCGAAGGUAACUGGCUUCAGCAGAGCGCAGAUACCAAAUACUGUCCUUCUAGUGUAGCCGUAGUAGGGCCACU
+
+(((((((.....(((((((.......))))))).)))))))((((..(((((.......)))))..))))..((((.(((((((.....)))).))).)))).......(((((.(((.........))).)))))....
+
